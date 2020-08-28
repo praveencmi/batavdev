@@ -673,20 +673,18 @@ footer .copyright p {
     .about-us .row > .col-lg-6:first-of-type {
         display: none;
     }
-    
-    /* services */
-    
-    .services .slide {
-        width: 90%
+
+    .about-us{
+        
+        margin-top: 15%;
     }
-    .services .carousel-control-next, .services .carousel-control-prev {
-        display: none;
+    .item-featured{
+        margin-top: 5%;
+    }
+    .item-why-batav{
+        margin-top: 10%;
+        text-align: center;
     }
     
-    /* agency */
-    
-    .agency .container > div {
-        width: 87%;
-    }
     
 }
